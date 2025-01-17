@@ -11,6 +11,12 @@ body {
   background-position: left;
 }
 
+/*titulo soy */
+h1 {
+  color: orangered;
+  text-shadow: 3px 3px 3px black;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
