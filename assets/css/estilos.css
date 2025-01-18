@@ -2,6 +2,7 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+
 /* Hero Section */
 
 #Hero-Section {
@@ -9,6 +10,13 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+}
+
+/*botones header */
+#boton1, #boton2{
+  text-decoration: none;
+  color:white;
+  font-weight: bold;
 }
 
 /*titulo soy */
